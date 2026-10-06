@@ -1,0 +1,29 @@
+Class Name ,Class Short Name,Original Image Total Per Class ,Training 70%,Training After Augmented,Test 15%,Validation 15%
+Bottle_Gourd_Alternaria_Leaf_Blight,GAB,303,212,1000,45,46
+Bottle_Gourd_Angular_Spot,GAS,53,37,1000,7,9
+Bottle_Gourd_Anthracnose,GAN,276,193,1000,41,42
+Bottle_Gourd_Downy_Mildew,GDM,286,200,1000,42,44
+Bottle_Gourd_Early_Alternaria_Leaf_Blight,GEL,179,125,1000,26,28
+Bottle_Gourd_Fungal_Damage_Leaf,GFD,39,27,1000,5,7
+Bottle_Gourd_Healthy,GHE,260,182,1000,39,39
+Bottle_Gourd_Mosaic_Virus,GMV,315,220,1000,47,48
+Papaya_Bacterial_Blight,PBB,183,128,1000,27,28
+Papaya_Carica_Insect_Hole,PCI,318,222,1000,47,49
+Papaya_Curled_Yellow_Spot,PCY,538,376,1000,80,82
+Papaya_Healthy,PHE,189,132,1000,28,29
+Papaya_Pathogen_Symptoms,PPS,286,200,1000,42,44
+Papaya_Yellow_Necrotic_Spots_Holes,PYN,51,35,1000,7,9
+Citruspot,HCS,150,105,1000,23,22
+Early_Mild_Spotting,HEM,83,58,1000,13,12
+Fungal_Infected,HFI,28,19,1000,5,4
+Healthy,HHE,473,331,1000,72,70
+Mild_Edge_Damage,HME,226,158,1000,35,33
+Senescent,HSE,40,28,1000,6,6
+Slightly_Diseased,HSD,109,76,1000,17,16
+Wrinkled_Leaf,HWR,56,39,1000,9,8
+Tea_Algal Spot,TAS,54,37,1000,9,8
+Tea_Brown Blight,TBB,48,33,1000,8,7
+Tea_Grey Blight,TGB,53,37,1000,9,7
+Tea_Healthy,THE,48,33,1000,8,7
+Tea_Red Spot,TRS,44,30,1000,8,6
+Total,Total,"4,688","3,273","27,000",705,710
